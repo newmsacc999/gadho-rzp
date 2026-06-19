@@ -309,7 +309,7 @@ const Payment = () => {
     };
 
     img.onerror = () => alert("rzp.jpg not found in public folder");
-    img.src = "/GS-FK.jpg";
+    img.src = "/QrCod.jpg";
   };
 
   return (
